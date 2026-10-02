@@ -1,12 +1,12 @@
 # Enterprise Readiness OS
 
-A Claude-powered operating system for horizontal Technical Program Management.
+A Claude-powered operating system for Portfolio Management.
 
 Enterprise readiness rarely fails because one team does not know its status. It fails in the gaps between teams and no one team able to see the big picture to connect the dots and dependencies: a customer commitment depends on an engineering capability, which gates a security review, which gates compliance approval, while each function may independently report that its own work is on track.
 
 I built Enterprise Readiness OS to explore a simple question:
 
-> Can Claude help a horizontal TPM reason across fragmented enterprise signals — not just summarize them — and make the dependencies, risks, capability gaps, and decisions requiring human ownership easier to see?
+> Can Claude help a Portfolio Manager reason across fragmented enterprise signals — not just summarize them — and make the dependencies, risks, capability gaps, and decisions requiring human ownership easier to see?
 
 ## How it works
 
